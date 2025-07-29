@@ -3,7 +3,7 @@ Overview
 FairSYN-Edu is a diffusion-based synthetic data generation framework designed for educational data, integrating adversarial debiasing, differential privacy (DP-SGD), and SHAP-based interpretability. It optimizes for utility, fairness, and privacy, suitable for high-stakes educational settings.
 Installation
 
-Clone the repository:git clone https://github.com/kdrrkagn/fairsynedu.git
+Clone the repository:git clone https://github.com/kdrksgn/FairSYN-Edu.git
 cd fairsynedu
 
 
