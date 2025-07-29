@@ -1,0 +1,1 @@
+torch==2.0.0 opacus==1.4.0 shap==0.41.0 pandas==2.0.0 scikit-learn==1.2.2 numpy==1.24.2
